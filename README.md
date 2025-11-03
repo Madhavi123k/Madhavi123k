@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madhavi Komkala (She/Her)
+# 👋 Hi, I'm Madhavi Komkala 
 
 🎓 **MCA Student | Exploring Technologies and Their Real-World Applications | Growing with Every Step**
 
@@ -20,7 +20,7 @@ Adaptable, enthusiastic, and ready to take on new challenges to become a well-ro
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn](linkedin.com/in/madhavi-komkala)
+- 💼 [LinkedIn](https://www.linkedin.com/in/madhavi-komkala/)
 - ✉️ [Email](madhavikomkala@gmail.com)
 
 
