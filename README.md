@@ -12,10 +12,12 @@ Adaptable, enthusiastic, and ready to take on new challenges to become a well-ro
 ---
 
 ### 💻 Tech Stack
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript  
-- **Databases:** MySQL, SQL, Oracle  
-- **Tools & IDEs:** Eclipse, VS Code, Jupyter Notebook, WAMP Server, MySQL Workbench  
-- **Soft Skills:** Communication, Adaptability, Teamwork  
+- **Programming Languages:** Python, JavaScript  
+- **Web Technologies:** HTML5, CSS3, Bootstrap 5, React, TypeScript, Tailwind CSS  
+- **Databases:** MySQL, Oracle SQL, PostgreSQL, Supabase
+- **Tools & IDEs:** VS Code, Eclipse, Jupyter Notebook, MySQL Workbench, Git, GitHub
+- **Concepts:** Object-Oriented Programming, Agile Methodology, SDLC, API Integration, Version Control
+- **Soft Skills:** Communication, Teamwork, Adaptability, Problem-Solving, Time Management
 
 ---
 
