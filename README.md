@@ -5,9 +5,9 @@
 ---
 
 ### 💫 About Me
-Final-year MCA student eager to learn and gain practical experience in the field of technology.  
-Motivated to contribute to meaningful projects, enhance technical and professional skills, and grow in a collaborative environment.  
-Adaptable, enthusiastic, and ready to take on new challenges to become a well-rounded professional.
+MCA graduate with hands-on experience in full-stack web development and software engineering. 
+Adaptable and detail-oriented, with a strong willingness to learn and take on new challenges. 
+Eager to contribute to real-world projects and grow as a well-rounded professional.
 
 ---
 
