@@ -12,11 +12,11 @@ Eager to contribute to real-world projects and grow as a well-rounded profession
 ---
 
 ### 💻 Tech Stack
-- **Programming Languages:** Python, JavaScript  
-- **Web Technologies:** HTML5, CSS3, Bootstrap 5, React, TypeScript, Tailwind CSS  
+- **Programming Languages:** Python
+- **Web Technologies:** HTML5, CSS3, React
 - **Databases:** MySQL, Oracle SQL, PostgreSQL, Supabase
 - **Tools & IDEs:** VS Code, Eclipse, Jupyter Notebook, MySQL Workbench, Git, GitHub
-- **Concepts:** Object-Oriented Programming, Agile Methodology, SDLC, API Integration, Version Control
+- **Concepts:** Object-Oriented Programming, Agile Methodology, SDLC, Version Control
 - **Soft Skills:** Communication, Teamwork, Adaptability, Problem-Solving, Time Management
 
 ---
